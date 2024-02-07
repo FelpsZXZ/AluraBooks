@@ -1,6 +1,6 @@
 Olá, Bem vindo ao meu projeto da pagina Alura Books.
 
-O projeto foi desenvolvido de acordo com o curso de HTML e CSS da Alura.
+O projeto foi desenvolvido de acordo com o curso de  responsividade HTML e CSS da Alura.
 
 Ferramentas utilizadas:
 HTML
